@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>6755610175-2ss8fkckk6edt6t7qhll0jl1g36lde5f.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.6755610175-2ss8fkckk6edt6t7qhll0jl1g36lde5f</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>6755610175-ktb6k0sn6bgutmh5mb9fuv24lod2qssl.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD8h-HBQAVJrnPtZKc-KDiWmQ-ORX9jGlM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>6755610175</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.redev.FlatCube</string>
+	<key>PROJECT_ID</key>
+	<string>flatcube-5980c</string>
+	<key>STORAGE_BUCKET</key>
+	<string>flatcube-5980c.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:6755610175:ios:2e375f577b90ccd7ac128a</string>
+</dict>
+</plist>

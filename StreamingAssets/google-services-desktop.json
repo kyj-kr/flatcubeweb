@@ -1,0 +1,36 @@
+{
+  "project_info": {
+    "project_number": "6755610175",
+    "project_id": "flatcube-5980c",
+    "storage_bucket": "flatcube-5980c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:6755610175:ios:2e375f577b90ccd7ac128a",
+        "android_client_info": {
+          "package_name": "com.redev.FlatCube"
+        }
+      },
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8h-HBQAVJrnPtZKc-KDiWmQ-ORX9jGlM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 0
+        },
+        "appinvite_service": {
+          "status": 1
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "6755610175-2ss8fkckk6edt6t7qhll0jl1g36lde5f.apps.googleusercontent.com"
+        }
+      ]
+    }
+  ],
+  "configuration_version": "1"
+}
