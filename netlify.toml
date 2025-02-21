@@ -21,3 +21,11 @@
     Content-Encoding = "br"
     Cache-Control = "public, max-age=31536000, immutable"
     ETag = "W/etag"
+
+[build]
+  functions = "netlify/functions"
+
+[[redirects]]
+  from = "/download"
+  to = "/.netlify/functions/redirect"
+  status = 200
