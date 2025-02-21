@@ -1,2 +1,4 @@
-/download  https://play.google.com/store/apps/details?id=com.redev.FlatCube  302  !User-Agent=*iPhone*,*iPad*
-/download  https://apps.apple.com/us/app/id6739634625  302
+/download  https://apps.apple.com/us/app/id6739634625  302  User-Agent=*iPhone*
+/download  https://apps.apple.com/us/app/id6739634625  302  User-Agent=*iPad*
+/download  https://apps.apple.com/us/app/id6739634625  302  User-Agent=*Macintosh*
+/download  https://play.google.com/store/apps/details?id=com.redev.FlatCube  302
