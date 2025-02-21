@@ -1,14 +1,14 @@
 exports.handler = async (event, context) => {
-    const userAgent = event.headers['user-agent'] || '';
+    const userAgent = (event.headers['user-agent'] || '').toLowerCase();
   
-    if (/iPhone|iPad|Macintosh/i.test(userAgent)) {
+    if (userAgent.includes('iphone') || userAgent.includes('ipad') || userAgent.includes('macintosh')) {
       return {
         statusCode: 302,
         headers: {
           Location: 'https://apps.apple.com/us/app/id6739634625',
         },
       };
-    } else if (/Android/i.test(userAgent)) {
+    } else if (userAgent.includes('android')) {
       return {
         statusCode: 302,
         headers: {
